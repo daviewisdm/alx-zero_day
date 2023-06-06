@@ -1,1 +1,1 @@
-My first readme edited copy
+Dave's README 
